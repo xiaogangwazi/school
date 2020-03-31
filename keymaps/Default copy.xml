@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+</keymap>

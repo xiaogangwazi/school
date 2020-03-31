@@ -1,0 +1,24 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/nodejs/node.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://211.159.165.197/svn/Product/20180408fbsmng/intelligentpay" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://211.159.165.197/svn/Product/20180408fbsmng/intelligentpay" />
+      </list>
+    </option>
+  </component>
+</application>
