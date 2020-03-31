@@ -1,7 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://camel.apache.org/schema/spring/camel-spring.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/9caa49d4_camel-spring.xsd" />
-    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
-    <ignored-resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" />
-  </component>
-</application>
