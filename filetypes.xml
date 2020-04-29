@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="resource.properties" type="PLAIN_TEXT" />
+      <mapping pattern="ProtoMsg" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="thrift" type="PLAIN_TEXT" />
+      <removed_mapping ext="thrift" approved="true" type="Thrift" />
+      <mapping pattern="MerchantAuthDaoxml" type="XML" />
+      <mapping pattern="OverseaMccDaojava" type="XML" />
+      <mapping ext="propertise" type="XML" />
+    </extensionMap>
+  </component>
+</application>
